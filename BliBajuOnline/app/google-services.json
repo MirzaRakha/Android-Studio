@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1056766296477",
+    "firebase_url": "https://blibajuonline.firebaseio.com",
+    "project_id": "blibajuonline",
+    "storage_bucket": "blibajuonline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056766296477:android:11776856053db138",
+        "android_client_info": {
+          "package_name": "com.example.blibajuonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056766296477-1653ktatk931nv44g6l7uciqlrqkm0ic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blibajuonline",
+            "certificate_hash": "ef581dada0914f6704486a5a6f3b8ea936956cb3"
+          }
+        },
+        {
+          "client_id": "1056766296477-gvhbpjefmu1242sp23kv5mi88bjhur7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5hgBf2KWkk4MVev1vjeCIZLAvSyU7Pvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056766296477-gvhbpjefmu1242sp23kv5mi88bjhur7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
